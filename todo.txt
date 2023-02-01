@@ -5,7 +5,13 @@ Step1: authorisation and authentication
 - endPoints : Register an login
 - methods: Post
 - packages: bcrypt, joi, express, mongoose, validator
-  methods: POST, Patch, GET, Delete
 
 Step2: Post Products
+       methods: getAll/single products POST, Patch, GET, Delete, dotenv
+
 Step3: Order for Products
+
+endpoints: order products / add to cart
+
+Step4: Api features 
+- pagination, filter, sort and search
